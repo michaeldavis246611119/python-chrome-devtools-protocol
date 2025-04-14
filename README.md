@@ -1,5 +1,4 @@
 # PyCDP
-
 [![PyPI](https://img.shields.io/pypi/v/chrome-devtools-protocol.svg)](https://pypi.org/project/chrome-devtools-protocol/)
 ![Python Versions](https://img.shields.io/pypi/pyversions/chrome-devtools-protocol)
 ![MIT License](https://img.shields.io/github/license/HyperionGray/python-chrome-devtools-protocol.svg)
